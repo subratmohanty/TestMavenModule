@@ -13,5 +13,6 @@
     <module>subrat-integration</module>
     <module>subrat-restws</module>
     <module>subrat-webapp</module>
+    <module>subrat-web</module>
   </modules>
 </project>
